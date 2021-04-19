@@ -66,11 +66,21 @@ const Stopwatch = () => {
 
   return (
     <div className="stopwatch">
+
       <div className="stopwatch__screen">
-        <div className="stopwatch__item">{hours < 10 ? `0${hours}` : hours}</div>
-        <div className="stopwatch__item">{minutes < 10 ? `0${minutes}` : minutes}</div>
-        <div className="stopwatch__item">{seconds < 10 ? `0${seconds}` : seconds}</div>
+        <div className="stopwatch__item">
+          {hours < 10 ? `0${hours}` : hours}
+        </div>
+        <div className="stopwatch__border">:</div>
+        <div className="stopwatch__item">
+          {minutes < 10 ? `0${minutes}` : minutes}
+        </div>
+        <div className="stopwatch__border">:</div>
+        <div className="stopwatch__item">
+          {seconds < 10 ? `0${seconds}` : seconds}
+        </div>
       </div>
+
       <div className="stopwatch__buttons">
         <button
           type="button"
@@ -102,6 +112,7 @@ const Stopwatch = () => {
           Reset
         </button>
       </div>
+
     </div>
   );
 };
