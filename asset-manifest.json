@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-stopwatch/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-stopwatch/static/js/main.45abc69e.chunk.js",
-    "main.js.map": "/react-stopwatch/static/js/main.45abc69e.chunk.js.map",
-    "runtime-main.js": "/react-stopwatch/static/js/runtime-main.c69816a3.js",
-    "runtime-main.js.map": "/react-stopwatch/static/js/runtime-main.c69816a3.js.map",
-    "static/js/2.b49d8893.chunk.js": "/react-stopwatch/static/js/2.b49d8893.chunk.js",
-    "static/js/2.b49d8893.chunk.js.map": "/react-stopwatch/static/js/2.b49d8893.chunk.js.map",
-    "static/js/3.be289375.chunk.js": "/react-stopwatch/static/js/3.be289375.chunk.js",
-    "static/js/3.be289375.chunk.js.map": "/react-stopwatch/static/js/3.be289375.chunk.js.map",
+    "main.css": "/react-stopwatch/static/css/main.5cbdef0d.chunk.css",
+    "main.js": "/react-stopwatch/static/js/main.d86fdbeb.chunk.js",
+    "main.js.map": "/react-stopwatch/static/js/main.d86fdbeb.chunk.js.map",
+    "runtime-main.js": "/react-stopwatch/static/js/runtime-main.2d66e9ae.js",
+    "runtime-main.js.map": "/react-stopwatch/static/js/runtime-main.2d66e9ae.js.map",
+    "static/js/2.85f9153b.chunk.js": "/react-stopwatch/static/js/2.85f9153b.chunk.js",
+    "static/js/2.85f9153b.chunk.js.map": "/react-stopwatch/static/js/2.85f9153b.chunk.js.map",
+    "static/js/3.2f36f84b.chunk.js": "/react-stopwatch/static/js/3.2f36f84b.chunk.js",
+    "static/js/3.2f36f84b.chunk.js.map": "/react-stopwatch/static/js/3.2f36f84b.chunk.js.map",
     "index.html": "/react-stopwatch/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-stopwatch/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b49d8893.chunk.js.LICENSE.txt": "/react-stopwatch/static/js/2.b49d8893.chunk.js.LICENSE.txt",
+    "static/css/main.5cbdef0d.chunk.css.map": "/react-stopwatch/static/css/main.5cbdef0d.chunk.css.map",
+    "static/js/2.85f9153b.chunk.js.LICENSE.txt": "/react-stopwatch/static/js/2.85f9153b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-stopwatch/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c69816a3.js",
-    "static/js/2.b49d8893.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.45abc69e.chunk.js"
+    "static/js/runtime-main.2d66e9ae.js",
+    "static/js/2.85f9153b.chunk.js",
+    "static/css/main.5cbdef0d.chunk.css",
+    "static/js/main.d86fdbeb.chunk.js"
   ]
 }
